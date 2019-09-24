@@ -1,5 +1,5 @@
 # MNIST-Naive-Bayes-and-Logistic-Regression
-Self coded the Naive Bayes Classifier and Logistic Regressor for two digits with an accuracy of 71% and 83% respectively
+Self coded the Naive Bayes Classifier and Logistic Regressor for two digits with an accuracy of 71% and 83% respectively using mean and variance as features rather than using each pixel as input array.
 
 ### Introduction
 MNIST dataset consists of 70,000 images of handwritten digits with almost 85 – 25% split in training and test dataset. But we are considering images only for digits 7 and 8.
